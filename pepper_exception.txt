@@ -2,4 +2,4 @@
 @@||clk*.tradedoubler.com^|
 @@||vht.tradedoubler.com^|
 @@||tradedoubler.com^|
-@@||c.trackmytarget.com^|
+@@||c.trackmytarget.com^

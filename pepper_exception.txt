@@ -1,4 +1,5 @@
 @@||redir.tradedoubler.com^|
 @@||clk*.tradedoubler.com^|
 @@||vht.tradedoubler.com^|
-@@||tradedoubler.com^
+@@||tradedoubler.com^|
+@@||c.trackmytarget.com^|

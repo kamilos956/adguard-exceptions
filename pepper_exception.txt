@@ -3,3 +3,8 @@
 @@||vht.tradedoubler.com^|
 @@||tradedoubler.com^|
 @@||c.trackmytarget.com^
+
+## IMPORTANT!
+@@||redirects.tradedoubler.com^$important
+@@||app-measurement.com^$important
+@@||s.youtube.com^$important
